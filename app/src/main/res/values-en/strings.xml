@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">xyz company</string>
+    <string name="borrar">delete</string>
+    <string name="calcular">calculate</string>
+    <string name="cantidadManillas">Number of handles</string>
+    <string name="cuero">leather</string>
+    <string name="valorManilla">Handle value</string>
+    <string name="martillo">hammer</string>
+    <string name="ancla">anchor</string>
+    <string name="niquel">nickel</string>
+    <string name="oro">gold</string>
+    <string name="oroRosado">pink gold</string>
+    <string name="plata">silver</string>
+    <string name="dije">said</string>
+    <string name="material">material</string>
+    <string name="tipo">type</string>
+    <string name="tipoMoneda">type of coin</string>
+    <string name="cuerda">rope</string>
+    <string name="dolar">dollar</string>
+    <string name="peso">peso</string>
+    <string name="msm_error_uno">Enter the number of handles</string>
+</resources>

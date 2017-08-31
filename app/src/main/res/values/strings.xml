@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Empresa xyz</string>
+    <string name="cantidadManillas">Cantidad de manillas</string>
+    <string name="calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string name="valorManilla">Valor de la manilla</string>
+    <string-array name="Materi">
+        <item>@string/cuero</item>
+        <item>@string/cuerda</item>
+    </string-array>
+    <string-array name="Dij">
+        <item>@string/martillo</item>
+        <item>@string/ancla</item>
+    </string-array>
+    <string-array name="Tip">
+        <item>@string/oro</item>
+        <item>@string/oroRosado</item>
+        <item>@string/plata</item>
+        <item>@string/niquel</item>
+    </string-array>
+    <string-array name="TipMone">
+        <item>@string/dolar</item>
+        <item>@string/peso</item>
+    </string-array>
+    <string name="cuero">Cuero</string>
+    <string name="martillo">Martillo</string>
+    <string name="ancla">Ancla</string>
+    <string name="oro">Oro</string>
+    <string name="oroRosado">Oro rosado</string>
+    <string name="niquel">Niquel</string>
+    <string name="plata">Plata</string>
+    <string name="dije">Dije</string>
+    <string name="material">Material</string>
+    <string name="tipoMoneda">Tipo de Moneda</string>
+    <string name="tipo">Tipo</string>
+    <string name="cuerda">Cuerda</string>
+    <string name="dolar">Dolar</string>
+    <string name="peso">Peso</string>
+    <string name="msm_error_uno">Ingrese la cantidad de manillas</string>
+</resources>
